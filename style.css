@@ -1,0 +1,48 @@
+*{
+  box-sizing: border-box;
+  margin:0;
+  padding: 0;
+}
+.header, .below{
+  background-color: #123456;
+  color: white;
+}
+.header, .below, .main{
+  border: none;
+  padding: 30px;
+  width: 100%;
+}
+.main p{
+  padding-left: 4px;
+}
+h3{
+  color: #ff5733;
+  font-weight: bolder;
+}
+
+section{
+  margin-bottom: 5px;
+  padding-left: 4px;
+}
+img{
+  width: 100%
+}
+span{
+  color: #e97451;
+  text-decoration: underline;
+}
+.contactbtn{
+  background-color: brown;
+  color: white;
+}
+.infobtn{
+  background-color: white;
+  color: black;
+}
+.contactbtn, .infobtn{
+  border: none;
+  font-weight:bolder;
+  margin-left: 2px;
+  padding: 10px 20px;
+
+}
