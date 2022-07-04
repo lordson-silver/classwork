@@ -5,7 +5,7 @@
 }
 .header, .below{
   background-color: #123456;
-  color: white;
+  color: blue;
 }
 .header, .below, .main{
   border: none;
@@ -21,8 +21,8 @@ h3{
 }
 
 section{
-  margin-bottom: 5px;
-  padding-left: 4px;
+  margin-bottom: 6px;
+  padding-left: 3px;
 }
 img{
   width: 100%
